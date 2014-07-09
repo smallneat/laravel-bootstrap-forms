@@ -1,0 +1,20 @@
+{
+    "name": "smallneat/bootstrap-forms",
+    "description": "Registers some form macros that output bootstrap 3 markup, with support for errors",
+    "authors": [
+        {
+            "name": "Rik Heywood",
+            "email": "hello@smallneatbox.co.uk"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Smallneat\\BootstrapForms": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
