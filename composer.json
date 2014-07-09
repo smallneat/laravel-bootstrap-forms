@@ -1,5 +1,5 @@
 {
-    "name": "smallneat/bootstrap-forms",
+    "name": "smallneat/laravel-bootstrap-forms",
     "description": "Registers some form macros that output bootstrap 3 markup, with support for errors",
     "authors": [
         {

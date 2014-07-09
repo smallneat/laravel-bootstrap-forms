@@ -1,6 +1,5 @@
 <?php namespace Smallneat\BootstrapForms;
 
-use Illuminate\Support\Facades\Form;
 use Illuminate\Support\Facades\Session;
 use Illuminate\Support\ServiceProvider;
 
