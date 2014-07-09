@@ -1,6 +1,8 @@
 {
     "name": "smallneat/laravel-bootstrap-forms",
     "description": "Registers some form macros that output bootstrap 3 markup, with support for errors",
+    "license": "MIT",
+    "keywords": ["bootstrap", "laravel", "forms"],
     "authors": [
         {
             "name": "Rik Heywood",
